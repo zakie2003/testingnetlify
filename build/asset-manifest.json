@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.052724e9.css",
+    "main.js": "/static/js/main.12193ee9.js",
+    "static/media/remixicon.svg?t=1690730386070": "/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/remixicon.eot?t=1690730386070": "/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/hero-img1.png": "/static/media/hero-img1.7ee41df9378ef3c73637.png",
+    "static/media/remixicon.woff?t=1690730386070": "/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/about-us.png": "/static/media/about-us.23d9ab3fd8dd5829e54c.png",
+    "static/media/remixicon.woff2?t=1690730386070": "/static/media/remixicon.821a773710130bcf4674.woff2",
+    "static/media/logo.jpeg": "/static/media/logo.76c451d71ee4df220424.jpeg",
+    "static/media/testimonial01.png": "/static/media/testimonial01.ef527bf36f2a27625c23.png",
+    "static/media/web-design.png": "/static/media/web-design.9071c3ef125375e2469a.png",
+    "static/media/seo.png": "/static/media/seo.b323da636359c745b6dc.png",
+    "static/media/web-development.png": "/static/media/web-development.91ce53388df7bc88002c.png",
+    "static/media/kids-learning.png": "/static/media/kids-learning.fcd258b6f9310b2dd2af.png",
+    "static/media/ui-ux.png": "/static/media/ui-ux.0366b465b35da2e796bb.png",
+    "static/media/graphics-design.png": "/static/media/graphics-design.08c25c6b6b3ecac266d2.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.052724e9.css.map": "/static/css/main.052724e9.css.map",
+    "main.12193ee9.js.map": "/static/js/main.12193ee9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.052724e9.css",
+    "static/js/main.12193ee9.js"
+  ]
+}
